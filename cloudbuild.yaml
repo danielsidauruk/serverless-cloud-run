@@ -1,0 +1,35 @@
+steps:
+  - id : 'docker build hello'
+    name: 'gcr.io/cloud-builders/docker'
+    dir: './terraform/nodejs/hello/'
+    args: [
+      'build',
+      '-t',
+      'us-central1-docker.pkg.dev/${PROJECT_ID}/hello/hello:latest',
+      '.'
+    ]
+
+  - id : 'docker push hello'
+    name: 'gcr.io/cloud-builders/docker'
+    args: [
+      'push', 
+      'us-central1-docker.pkg.dev/${PROJECT_ID}/hello/hello:latest'
+    ]
+
+
+  - id : 'docker build redis'
+    name: 'gcr.io/cloud-builders/docker'
+    dir: './terraform/nodejs/redis/'
+    args: [
+      'build',
+      '-t',
+      'us-central1-docker.pkg.dev/${PROJECT_ID}/redis/redis:latest',
+      '.'
+    ]
+
+  - id : 'docker push redis'
+    name: 'gcr.io/cloud-builders/docker'
+    args: [
+      'push', 
+      'us-central1-docker.pkg.dev/${PROJECT_ID}/redis/redis:latest'
+    ]
