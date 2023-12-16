@@ -47,3 +47,25 @@ variable "sa_name" {
 variable "vpc_connector_name" {
   type = string
 }
+
+variable "cloudbuild_name" {
+  type = string
+  description = "Name of Cloud Build Trigger"
+}
+
+variable "github_owner" {
+  type = string
+}
+
+variable "github_name" {
+  type = string
+}
+
+variable "github_branch" {
+  type = string
+  default = "^main$"
+}
+
+variable "github_url" {
+  type = string
+}
