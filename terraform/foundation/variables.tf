@@ -27,6 +27,10 @@ variable "subnets" {
   }))
 }
 
+variable "registrys_id" {
+  type = list(string)
+  description = "List of Registrys ID"
+}
 
 variable "services" {
   type = list(string)
