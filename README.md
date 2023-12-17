@@ -1,3 +1,4 @@
 # serverless-cloud-run
 
-![serverless-cloud-run drawio](https://github.com/danielsidauruk/serverless-cloud-run/assets/64315754/84cc3663-0888-4e4b-b3e8-c40ba51d5347)
+
+![serverless-cloud-run drawio (2)](https://github.com/danielsidauruk/serverless-cloud-run/assets/64315754/9e369096-06b9-4278-a604-9fb61df9ef18)
