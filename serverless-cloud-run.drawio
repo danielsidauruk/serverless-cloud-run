@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T13:24:36.521Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lnwkZpeo50fqU4EXk6r7" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T17:37:39.133Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="goIfPg_UszZeWbEYvI27" version="22.1.11" type="github">
   <diagram name="Halaman-1" id="3nu3mBXix2pIM-3wAyp3">
-    <mxGraphModel dx="2926" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3122" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oqgNRT24nSCICbErMnXA-1" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="730" width="750" height="880" as="geometry" />
+        </mxCell>
         <mxCell id="0INVlp286i1pcHMtiOAy-87" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-1320" y="900" width="670" height="680" as="geometry" />
         </mxCell>
@@ -194,7 +197,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0INVlp286i1pcHMtiOAy-81" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;dashed=0;strokeColor=#4284F3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0INVlp286i1pcHMtiOAy-16" edge="1" target="0INVlp286i1pcHMtiOAy-9">
+        <mxCell id="0INVlp286i1pcHMtiOAy-81" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;dashed=0;strokeColor=#4284F3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0INVlp286i1pcHMtiOAy-16" target="0INVlp286i1pcHMtiOAy-9" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="-730.2100000000003" y="970" as="sourcePoint" />
             <mxPoint x="-740.2100000000003" y="1330" as="targetPoint" />
@@ -266,7 +269,7 @@
         <mxCell id="0INVlp286i1pcHMtiOAy-135" value="Access from internet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="-872.8100000000001" y="860" width="75.21" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="quvYZ0VEd6WD7bcV3Or1-1" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;dashed=0;strokeColor=#4284F3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0INVlp286i1pcHMtiOAy-16" target="0INVlp286i1pcHMtiOAy-24">
+        <mxCell id="quvYZ0VEd6WD7bcV3Or1-1" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;dashed=0;strokeColor=#4284F3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0INVlp286i1pcHMtiOAy-16" target="0INVlp286i1pcHMtiOAy-24" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="-930" y="1170" as="sourcePoint" />
             <mxPoint x="-830" y="1170" as="targetPoint" />
